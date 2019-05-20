@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tau Coworking
-description: Meilleur espace de coworking à Toulouse
-email: contact@tau.so
+title: Ahala Coworking
+description: L'espace de coworking au sud de Yaounde, Cameroun
+email: contact@ahala-coworking.space
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://tau.so" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: taucw
-github_username:  taucw
-facebook: tau.coworkingtoulouse
+url: "http://ahala-coworking.space" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ahalacoworking
+github_username:  ahalacoworking
+facebook: ahalacoworking
 
 # Build settings
 markdown: kramdown
